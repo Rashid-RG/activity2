@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Activity2\Activity2\bin\Debug\Activity2.exe.config
+C:\Users\DELL\source\repos\Activity2\Activity2\bin\Debug\Activity2.exe
+C:\Users\DELL\source\repos\Activity2\Activity2\bin\Debug\Activity2.pdb
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.Form1.resources
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.Properties.Resources.resources
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.exe
+C:\Users\DELL\source\repos\Activity2\Activity2\obj\Debug\Activity2.pdb
